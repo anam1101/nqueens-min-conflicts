@@ -1,0 +1,42 @@
+[
+  {
+    "n": 8,
+    "solved": true,
+    "steps": 30,
+    "restarts": 1,
+    "duration_sec": 0.004247,
+    "max_steps": 50
+  },
+  {
+    "n": 100,
+    "solved": true,
+    "steps": 190,
+    "restarts": 0,
+    "duration_sec": 0.005901,
+    "max_steps": 400
+  },
+  {
+    "n": 1000,
+    "solved": true,
+    "steps": 713,
+    "restarts": 0,
+    "duration_sec": 0.037516,
+    "max_steps": 4000
+  },
+  {
+    "n": 10000,
+    "solved": true,
+    "steps": 6215,
+    "restarts": 0,
+    "duration_sec": 1.825709,
+    "max_steps": 40000
+  },
+  {
+    "n": 100000,
+    "solved": true,
+    "steps": 61147,
+    "restarts": 0,
+    "duration_sec": 142.43266,
+    "max_steps": 400000
+  }
+]
